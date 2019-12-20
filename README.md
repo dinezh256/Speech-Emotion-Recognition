@@ -5,7 +5,8 @@ Speech Emotion Recognition(SER) is the act of attempting to recognize human emot
 
 Librosa is a Python library for analyzing audio and music. It has a flatter package layout, standardizes interfaces and names, backwards compatibility, modular functions, and readable code. 
 
-Installing librosa library: *pip install librosa soundfile*
+Installing librosa library: 
+> pip install librosa soundfile
 
 *Objective*
 
