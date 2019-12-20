@@ -17,11 +17,11 @@ For this Python mini project, we’ll use the RAVDESS dataset. Tthis is the Ryer
 
 *Prerequisites*
 
-> librosa 
-> soundfile 
-> numpy 
-> sklearn
-> pyaudio
+- librosa 
+- soundfile 
+- numpy 
+- sklearn
+- pyaudio
 
 
 
