@@ -29,4 +29,8 @@ For this Python mini project, we’ll use the RAVDESS dataset. Tthis is the Ryer
 
 
 
-Reference: Zenodo(https://zenodo.org/record/1188976#.Xb3Zn-Yza92)
+Reference: 
+1) Zenodo(https://zenodo.org/record/1188976#.Xb3Zn-Yza92)
+2) https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition
+
+
